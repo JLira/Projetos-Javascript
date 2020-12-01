@@ -1,0 +1,6 @@
+#ignora diretorios do raiz
+.vscode
+data
+node_modules
+tmp
+.env
